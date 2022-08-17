@@ -1,0 +1,10 @@
+com\huyiqiu\controller\PassportController.class
+com\huyiqiu\controller\FileController.class
+com\huyiqiu\controller\HelloController.class
+com\huyiqiu\controller\UserInfoController.class
+com\huyiqiu\interceptor\UserTokenInterceptor.class
+com\huyiqiu\InterceptorConfig.class
+com\huyiqiu\MinIOConfig.class
+com\huyiqiu\interceptor\PassportInterceptor.class
+com\huyiqiu\Application.class
+com\huyiqiu\Knife4jConfiguration.class

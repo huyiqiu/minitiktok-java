@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "tencent.cloud",
+      "type": "com.huyiqiu.utils.TencentCloudProperties",
+      "sourceType": "com.huyiqiu.utils.TencentCloudProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "tencent.cloud.secret-id",
+      "type": "java.lang.String",
+      "sourceType": "com.huyiqiu.utils.TencentCloudProperties"
+    },
+    {
+      "name": "tencent.cloud.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.huyiqiu.utils.TencentCloudProperties"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,10 @@
+com\huyiqiu\mapper\CommentMapper.class
+com\huyiqiu\repository\MessageRepository.class
+com\huyiqiu\mapper\FansMapper.class
+com\huyiqiu\mapper\MyLikedVlogMapper.class
+com\huyiqiu\mapper\VlogMapperCustom.class
+com\huyiqiu\mapper\UsersMapper.class
+com\huyiqiu\mapper\FansMapperCustom.class
+com\huyiqiu\mapper\CommentMapperCustom.class
+com\huyiqiu\mapper\VlogMapper.class
+com\huyiqiu\my\mapper\MyMapper.class

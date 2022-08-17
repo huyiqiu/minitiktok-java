@@ -1,0 +1,15 @@
+com\huyiqiu\vo\IndexVlogVO.class
+com\huyiqiu\pojo\Vlog.class
+com\huyiqiu\pojo\Users.class
+com\huyiqiu\vo\FansVO.class
+com\huyiqiu\bo\RegistLoginBO.class
+com\huyiqiu\pojo\Comment.class
+com\huyiqiu\vo\UsersVO.class
+com\huyiqiu\bo\CommentBO.class
+com\huyiqiu\vo\VlogerVO.class
+com\huyiqiu\bo\UpdateUserBO.class
+com\huyiqiu\pojo\MyLikedVlog.class
+com\huyiqiu\bo\VlogBO.class
+com\huyiqiu\mo\MessageMO.class
+com\huyiqiu\vo\CommentVO.class
+com\huyiqiu\pojo\Fans.class

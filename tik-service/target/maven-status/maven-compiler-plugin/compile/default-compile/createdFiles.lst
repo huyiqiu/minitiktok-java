@@ -1,0 +1,11 @@
+com\huyiqiu\service\CommentService.class
+com\huyiqiu\service\MsgService.class
+com\huyiqiu\service\impl\UserServiceImpl.class
+com\huyiqiu\service\VlogService.class
+com\huyiqiu\service\impl\FansServiceImpl.class
+com\huyiqiu\service\FansService.class
+com\huyiqiu\service\UserService.class
+com\huyiqiu\base\BaseInfoProperties.class
+com\huyiqiu\service\impl\MsgServiceImpl.class
+com\huyiqiu\service\impl\VlogServiceImpl.class
+com\huyiqiu\service\impl\CommentServiceImpl.class
