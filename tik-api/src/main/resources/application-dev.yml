@@ -6,8 +6,8 @@ spring:
     type: com.zaxxer.hikari.HikariDataSource      # 数据源的类型，可以更改为其他的数据源配置，比如druid
     driver-class-name: com.mysql.jdbc.Driver      # mysql/MariaDB 的数据库驱动类名称
     url: jdbc:mysql://192.168.3.7:3307/imooc-red-book-dev?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true
-    username: root
-    password: 147998
+    username:
+    password:
     hikari:
       connection-timeout: 30000               # 等待连接池分配连接的最大时间（毫秒），超过这个时长还没有可用的连接，则会抛出SQLException
       minimum-idle: 5                         # 最小连接数
@@ -19,21 +19,21 @@ spring:
       connection-test-query: SELECT 1
 
   redis:
-    host: 47.113.185.142
-    port: 6379
+    host:
+    port:
     database: 0
-    password: 147998
+    password:
 
   data:
     mongodb:
-      uri: mongodb://root:147998@47.113.185.142:27017
+      uri: mongodb://username:password@ip:port
       database: fake-tik-tok
 
 minio:
-  endpoint: http://47.113.185.142:9000
-  fileHost: http://47.113.185.142:9000
-  bucketName: faketik
-  accessKey: huyiqiu
-  secretKey: Hyq147998
+  endpoint:
+  fileHost:
+  bucketName:
+  accessKey:
+  secretKey:
   imgSize: 1024                           # 图片大小限制，单位：m
   fileSize: 1024                          # 文件大小限制，单位：m
