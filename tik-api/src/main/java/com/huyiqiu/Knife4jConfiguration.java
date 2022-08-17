@@ -22,7 +22,6 @@ public class Knife4jConfiguration {
                         //.title("swagger-bootstrap-ui-demo RESTful APIs")
                         .description("fakeTiktok短视频实战接口文档")
                         .termsOfServiceUrl("http://www.xx.com/")
-                        .contact("huyqiu1998@163.com")
                         .version("1.0")
                         .build())
                 //分组名称
